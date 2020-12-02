@@ -23,3 +23,4 @@ My current goal is to have the it run at large cycles and lower temperatures, to
 **Credit:**
 * https://www.tensorflow.org/tutorials/text/text_generation#train_the_model
 * https://scrapism.lav.io/web-scraping-basics/
+* http://switch.sjsu.edu/
