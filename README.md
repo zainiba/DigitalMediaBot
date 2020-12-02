@@ -1,6 +1,6 @@
 # DigitalMediaBot
 
-This project uses Tensorflow and Keras to process essays and generate its own using a character-based RNN. I trained this model on academic digital media articles from http://switch.sjsu.edu/. 
+This project uses Tensorflow and Keras to process essays and generate its own using a character-based RNN. I trained this model on academic digital media articles scraped from http://switch.sjsu.edu/ using Python. 
 
 Academic language can often feel very exclusive, but it is something that can be learned through reading and writing a lot, and often. Using articles in this same language written by a plethora of minds all with the intention of analyzing systems and art created compelling analyses of how this language is written. This bot has been put through the same process we have been in learning how to read and write academic articles through iteration. The output of the training was more interesting than anything I thought it would be. When trained in smaller cycles(10 cycles) the generated text was less coherent but looked "good".
 
@@ -18,3 +18,8 @@ When run at 60 cycles it produces a slightly more coherent generalization of all
 
 *Contemporary discussion of Aschheim s work in San Jose, California. A symposium kicked off the Biennial. The title of this symposium was Dr. Kathlers, in essay, is contrasted with the psychological divide between self-body and planet via the mechanism of death of history or how it simply unties the human mind from memory seems too shallow to explain the purpose of the machine. If nature, etc., would at least theoretical mather than just renting the space to like minded artists, because that is not so distant. Several independent game titles currently indulge this sentiment. for example, he converted a VW faster than the power grid in these rapidly changing areas. In India pulse dialing is still used and rewound again and again, unhinges the duration of reenactment's site and presence of objects the rate is just over 100%; the island-state’s population is just shy of 4 million yet surveys she result of this kind of holistic approach to design is an architecture that is beautiful.*
 
+My current goal is to have the it run at large cycles and lower temperatures, to create even more coherent paragraphs but with less predictability to the data.
+
+**Credit:**
+* https://www.tensorflow.org/tutorials/text/text_generation#train_the_model
+* https://scrapism.lav.io/web-scraping-basics/
