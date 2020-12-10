@@ -1,4 +1,4 @@
-# DigitalMediaBot
+# The Creative Mind
 
 This project uses Tensorflow and Keras to process essays and generate its own using a character-based RNN. I trained this model on academic digital media articles scraped from http://switch.sjsu.edu/ using Python. 
 
