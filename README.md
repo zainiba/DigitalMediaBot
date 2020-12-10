@@ -1,6 +1,6 @@
 # The Collective Mind
 
-This project uses Tensorflow and Keras to process essays and generate its own using a character-based RNN. I trained this model on academic digital media articles scraped from http://switch.sjsu.edu/ using Python. 
+This project uses Tensorflow and Keras to process essays and generate its own using a character-based RNN. I executed the code using Google Colab because I was having problems running the script through Atom, Colab ended up being a smoother experience. I trained this model on academic digital media articles scraped from http://switch.sjsu.edu/ using Python.
 
 Academic language can often feel very exclusive, but it is something that can be learned through reading and writing a lot, and often. Using articles in this same language written by a plethora of minds all with the intention of analyzing systems and art created compelling analyses of how this language is written. This bot has been put through the same process we have been in learning how to read and write academic articles through iteration. The output of the training was more interesting than anything I thought it would be. When trained in smaller epochs (10 epochs) the generated text was less coherent but looked "good".
 
