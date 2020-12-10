@@ -31,7 +31,7 @@ Technology in series which make us to reevaluate our technophone. Although the p
 >**At a temperature of 0.4:**
 The simulator is currently co-managed and drawing structures can be copied and downloaded, and often times and the nection between the self-body and the planet--the industrial toxins we insert into the planet eventually embrace the creation of the work Growth Pattern.
 
-The Second Life space and via that presence, interact with others. I was intrigued by the technology used to create Playing Duchamp and thrilled to reemerge as a specific persence. The aesthetic politics of documentation further complicate the historic through implicit aesthetics of the movers/The to create public awareness and access to biological information.  A biohacker is someone who is, established plants. Eventually, the entire series of communication, seized hold of the word concept itself and said: "This is our concern, we are the friends of the concept, we put it in our computers.
+>The Second Life space and via that presence, interact with others. I was intrigued by the technology used to create Playing Duchamp and thrilled to reemerge as a specific persence. The aesthetic politics of documentation further complicate the historic through implicit aesthetics of the movers/The to create public awareness and access to biological information.  A biohacker is someone who is, established plants. Eventually, the entire series of communication, seized hold of the word concept itself and said: "This is our concern, we are the friends of the concept, we put it in our computers.
 
 **Credit:**
 * https://www.tensorflow.org/tutorials/text/text_generation#train_the_model
